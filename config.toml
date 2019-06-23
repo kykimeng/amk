@@ -1,11 +1,11 @@
 # Hugo variables
 #
-baseurl = "https://amkplatform.home.blog/"
+baseurl = "https://example.org/"
 languageCode = "en-us"
 title = "Hugo Bootstrap v4 Blog"
 theme = "hugo-theme-bootstrap4-blog"
 # number of posts to show on home/category/tag pages (Default: 10)
-paginate = 10
+paginate = 5
 # optionally override the site's footer with custom copyright text
 # copyright = "Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)."
 #googleAnalytics = "UA-123-45"
@@ -32,10 +32,10 @@ paginate = 10
 #
 [params]
   # Site author
-  author = "A.M.K"
+  author = "Your Name"
 
   # Description/subtitle for homepage (can be Markdown)
-  description = "We Seek. We Share. We Spark."
+  description = "A simple Hugo theme based on the Bootstrap v4 blog example."
 
   # Show header (default: true)
   #header_visible = true
@@ -80,7 +80,7 @@ paginate = 10
     # Optional, used for attribution in Twitter cards (ideally not a person
     # for example: nytimes, flickr, NatGeo, etc).
     # See: https://dev.twitter.com/cards/types/summary-large-image
-    twitter = "kimmyky2"
+    twitter = "username"
 
 # Default content language for Hugo 0.17's multilingual support (default is "en")
 # See: https://github.com/spf13/hugo/blob/master/docs/content/content/multilingual.md
