@@ -27,7 +27,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.navbar]]
   name = "Our Story"
   identifier = "our-story"
-  url = "https://amk.netlify.com/our-story/"
+  url = "/our-story/"
 
 
 # Theme variables
