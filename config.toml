@@ -25,8 +25,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   url = "https://example.org"
 
 [[menu.navbar]]
-  name = "Link 1"
-  url = "https://example.org"
+  name = "Our Story"
+  identifier = "our-story"
+  url = "/our-story/"
 
 
 # Theme variables
