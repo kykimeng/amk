@@ -1,6 +1,6 @@
 # Hugo variables
 #
-baseurl = "/"
+baseurl = "https://amk.netlify.com/"
 languageCode = "en-us"
 title = "A.M.K"
 theme = "hugo-theme-bootstrap4-blog"
