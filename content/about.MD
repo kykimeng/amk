@@ -1,3 +1,7 @@
+---
+title: "About Us"
+---
+
 # Who we are
 
 We seek inspirational stories from all walks of life to share in order to spark personal and professional growth.

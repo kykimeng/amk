@@ -12,12 +12,18 @@ relativeURLs = true
     themeColor = "theme-base-0d"
     # title = "Title"
     description = "We seek inspirational stories from all walks of life to share in order to spark personal and professional growth."
-    authorimage = "/img/amk-logo.png"
+    #authorimage = "/img/amk-logo.png"
     dateformat = "Jan 2, 2006"
     highlightjs = true
-    highlightjsstyle = "github"
+    #highlightjsstyle = "github"
     math = true
-    copyright = "&copy; 2018. All rights reserved."
+    copyright = "&copy; 2019. All rights reserved."
+
+[params.logo]
+    url = "/img/amk-logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"
     
 [[menu.main]]
     name = "About Us"
