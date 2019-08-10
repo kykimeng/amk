@@ -41,7 +41,7 @@ relativeURLs = true
 [[menu.main]]
     name = "About Us"
     weight = 10
-    identifier = "about.md"
+    identifier = "about"
     url = "/about/"
 [[menu.main]]
     name = "Blog Posts"
