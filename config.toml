@@ -7,7 +7,7 @@ theme = "hyde-hyde"
     
 ## Hugo Built-in Features
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-disqusShortname = "amkblog"
+# disqusShortname = "amkblog"
 relativeURLs = true
 # googleAnalytics = "your-google-analytics-id"
 # enableRobotsTXT = true
@@ -40,8 +40,8 @@ relativeURLs = true
 ## Main Menu
 [[menu.main]]
     name = "About Us"
-    identifier = "about"
     weight = 10
+    identifier = "about.md"
     url = "/about/"
 [[menu.main]]
     name = "Blog Posts"
