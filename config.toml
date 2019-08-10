@@ -2,7 +2,7 @@
 baseurl = "https://amk.netlify.com/"
 languageCode = "en"
 
-title = "Alayna, Mary, Kim"
+title = "A.M.K"
 theme = "hyde-hyde"
     
 ## Hugo Built-in Features
@@ -24,6 +24,7 @@ relativeURLs = true
     highlightjsstyle = "github"
     math = true
     copyright = "&copy; 2019. All rights reserved."
+
 
 ## Social Accounts
 [params.social]
