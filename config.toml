@@ -40,6 +40,11 @@ relativeURLs = true
 
 ## Main Menu
 [[menu.main]]
+    name = "Home"
+    weight = 5
+    identifier = ""
+    url = "/"
+[[menu.main]]
     name = "About Us"
     weight = 10
     identifier = "about"
