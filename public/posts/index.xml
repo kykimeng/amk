@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
+    <title>Posts on A.M.K</title>
     <link>/posts/</link>
-    <description>Recent content in Posts on </description>
+    <description>Recent content in Posts on A.M.K</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How Izzy’s Ice Cream came to be an Iconic Twin Cities company</title>
+      <link>/posts/jess-sommers/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/jess-sommers/</guid>
+      <description>He has been an English major, an art graduate student and a teacher. Now, he is the owner of Izzy’s Ice Cream, one of the most iconic Twin Cities companies. Jeff Sommers knows something about winding roads, taking risks and fearlessly changing career paths. Jeff and his wife Lara took two mortgages and a $280,000 investment and transformed it into a thriving business with two locations and hundreds of grocery and restaurant distributors, an iconic Twin Cities brand and a gathering place for their community.</description>
+    </item>
     
     <item>
       <title>Q&amp;A with Rachel Dungca: on fearlessly evolving your career</title>

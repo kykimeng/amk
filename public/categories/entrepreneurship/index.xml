@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>entrepreneurship on A.M.K</title>
-    <link>/tags/entrepreneurship/</link>
-    <description>Recent content in entrepreneurship on A.M.K</description>
+    <title>Entrepreneurship on A.M.K</title>
+    <link>/categories/entrepreneurship/</link>
+    <description>Recent content in Entrepreneurship on A.M.K</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/entrepreneurship/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/entrepreneurship/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/posts/jess-sommers/</guid>
       <description>He has been an English major, an art graduate student and a teacher. Now, he is the owner of Izzy’s Ice Cream, one of the most iconic Twin Cities companies. Jeff Sommers knows something about winding roads, taking risks and fearlessly changing career paths. Jeff and his wife Lara took two mortgages and a $280,000 investment and transformed it into a thriving business with two locations and hundreds of grocery and restaurant distributors, an iconic Twin Cities brand and a gathering place for their community.</description>
-    </item>
-    
-    <item>
-      <title>Entrepreneur paves the way in male-dominated tech industry</title>
-      <link>/posts/roya-ansari/</link>
-      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/roya-ansari/</guid>
-      <description>Through innovative thinking, hard work and principled determination, Iranian-American Roya Ansari has led a successful career in Silicon Valley, marked by the founding of her own data companies and a generous commitment to paying it forward. This is Roya&amp;rsquo;s story.</description>
     </item>
     
   </channel>

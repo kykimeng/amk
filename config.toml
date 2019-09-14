@@ -2,7 +2,7 @@
 baseurl = "https://amk.netlify.com/"
 languageCode = "en"
 
-title = ""
+title = "A.M.K"
 theme = "hyde-hyde"
     
 ## Hugo Built-in Features
