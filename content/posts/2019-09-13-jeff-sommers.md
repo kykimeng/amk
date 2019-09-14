@@ -1,7 +1,7 @@
 ---
 title: How Izzy’s Ice Cream came to be an Iconic Twin Cities company
 date: '2019-09-13'
-slug: jess-sommers
+slug: jeff-sommers
 categories:
   - Entrepreneurship
 tags:
