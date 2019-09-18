@@ -9,7 +9,7 @@ theme = "hyde-hyde"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # disqusShortname = "amkblog"
 relativeURLs = true
-# googleAnalytics = "your-google-analytics-id"
+googleAnalytics = "UA-148162328-1"
 # enableRobotsTXT = true
 
 ## Site Settings
